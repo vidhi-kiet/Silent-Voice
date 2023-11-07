@@ -1,5 +1,4 @@
-# Silent-Voice
-# Sign2Speech: Sign Language to Speech Conversion Android App
+# Silent-Voice: Sign Language to Speech Conversion Android App
 
 ![App Logo](https://github.com/your-username/sign2speech-android-app/assets/app_logo.png)
 
