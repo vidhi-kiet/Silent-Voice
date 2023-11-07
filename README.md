@@ -1,6 +1,7 @@
 # Silent-Voice: Sign Language to Speech Conversion Android App
 
-![App Logo](https://github.com/your-username/sign2speech-android-app/assets/app_logo.png)
+![WhatsApp Image 2023-11-07 at 5 12 55 PM](https://github.com/vidhi-kiet/Silent-Voice/assets/78697483/b3b2c46f-6e2c-44d5-9f35-663da1943ba0)
+
 
 Welcome to Sign2Speech, an innovative Android app that bridges the communication gap by converting sign language gestures into spoken words. This README will guide you through the project's overview, installation, usage, and contribution guidelines.
 
