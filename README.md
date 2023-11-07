@@ -15,7 +15,7 @@ Welcome to Sign2Speech, an innovative Android app that bridges the communication
 
 ## Project Overview
 
-Sign2Speech is an Android app that empowers the deaf and hard of hearing community by providing a real-time sign language to speech conversion. It utilizes cutting-edge machine learning and computer vision techniques to interpret sign language gestures and produce spoken language output. The app aims to facilitate better communication and inclusivity for the deaf and hard of hearing individuals.
+Silent-Voice is an Android app that empowers the deaf and hard of hearing community by providing a real-time sign language to speech conversion. It utilizes cutting-edge machine learning and computer vision techniques to interpret sign language gestures and produce spoken language output. The app aims to facilitate better communication and inclusivity for the deaf and hard of hearing individuals.
 
 ## Features
 
